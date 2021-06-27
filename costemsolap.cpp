@@ -1,19 +1,8 @@
-/****************************************************************************\
- * Curso de Programación 2. Trabajo obligatorio
- * Autor: Héctor Toral Pallás
- * Ultima revisión: 17 de Junio  de 2020
- * Resumen: Módulo principal de un programa que calcula el tiempo de ejecución
- * de dos funciones «maxSolFBruta» y «maxSolDyV» para las cuales muestra una 
- * grafica en base a los tiempos obtenidos para 2 cantidades de intervalos 
- * a generar.
- * Codificación de caracteres original de este fichero: UTF-8 sin BOM
-\****************************************************************************/
-
-#include <iostream>
-#include <fstream>
-#include <time.h>
-#include <stdlib.h>
-#include "maxsolape.hpp"
+# include <iostream>
+# include <fstream>
+# include <time.h>
+# include <stdlib.h>
+# include "maxsolape.hpp"
 
 using namespace std;
 
