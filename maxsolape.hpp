@@ -1,17 +1,6 @@
-/****************************************************************************\
- * Curso de Programación 2. Trabajo obligatorio
- * Autor: Héctor Toral Pallás
- * Ultima revisión: 18 de Junio de 2020
- * Resumen: Fichero de interfaz «maxsolape.cpp» que define dos
- *          funciónes denominadas «maxSolFBruta» y «maxSolDyV» que, 
- *          dada una serie de intervalos definidos en los reales, 
- *          devuelve la pareja de intevalos cuyo solape es máximo.
- * Codificación de caracteres original de este fichero: UTF-8 sin BOM
-\****************************************************************************/
-
-#include <iostream>
-#include <algorithm>    // std::max
-#include <ctime>
+# include <iostream>
+# include <algorithm>    // std::max
+# include <ctime>
 
 using namespace std;
 
